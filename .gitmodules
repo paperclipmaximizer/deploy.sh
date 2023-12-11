@@ -1,0 +1,3 @@
+[submodule "odoo-community-ed"]
+	path = odoo-community-ed
+	url = https://github.com/paperclipmaximizer/oodo-deploy-sh
